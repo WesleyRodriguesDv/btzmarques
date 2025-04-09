@@ -33,14 +33,14 @@
 </div>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/btzmarques/btzmarques/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/btzmarques/btzmarques/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/btzmarques/btzmarques/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WesleyrodriguesDv/WesleyRodriguesDv/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WesleyrodriguesDv/WesleyRodriguesDv/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WesleyrodriguesDv/WesleyRodriguesDv/output/github-contribution-grid-snake.svg">
 </picture>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{btzmarques}/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{WesleyRodriguesDv}/count.svg" /></p>
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=footer"/>
