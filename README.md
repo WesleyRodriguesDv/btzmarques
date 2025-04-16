@@ -18,7 +18,7 @@
 <div align="center"><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt= "JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-TS?style=for-the-badge&logo=typescript&logoColor=white&color=blue" alt= "TypeScript">
-  <img src="https://img.shields.io/badge/NestJs-white?logo=NestJs&logoColor=E0234E" alt= "NestJs">
+  <img src="https://img.shields.io/badge/NestJs-white?style=for-the-badge&logo=NestJs&logoColor=E0234E" alt= "NestJs">
   
 </div>
 
