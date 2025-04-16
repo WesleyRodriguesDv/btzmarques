@@ -16,7 +16,7 @@
 </p>
 
 <div align="center"><br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&logoSize=auto">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&logoSize=50px">
   <img src="https://img.shields.io/badge/TypeScript-TS?style=plastic&logo=typescript&logoColor=white&color=blue">
   <img src="https://img.shields.io/badge/NodeJs-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="NodeJs">
   <img src="https://img.shields.io/badge/SQL/NoSQL-3776AB?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJs">
